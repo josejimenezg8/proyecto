@@ -1,4 +1,4 @@
-# Plataforma de Datos para Recetas y Wearables (INF3862)
+# Plataforma de Datos para Recetas y Wearables
 
 Proyecto del curso **Plataformas Big Data para Data Science**.
 
