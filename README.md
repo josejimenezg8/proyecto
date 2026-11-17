@@ -1,4 +1,4 @@
-# Plataforma de Datos para Recetas y Wearables
+# Plataforma de datos para recetas y wearables
 
 Proyecto del curso **Plataformas Big Data para Data Science**.
 
@@ -14,15 +14,15 @@ La plataforma integra el catálogo de recetas de *Food.com* con registros de act
 
 ---
 
-## Entregables y Estructura del Repositorio
+## Entregas y estructura del repositorio
 
 El repositorio está organizado por etapas según las entregas del curso:
 
-* **Entrega 1 (E1) — Diseño de datos (Objetivo, fuentes, OLTP/OLAP y consultas):**
+* **Entrega 1 (E1) — Diseño de datos (objetivo, fuentes, OLTP/OLAP y consultas):**
   * [Informe E1 (PDF)](entregas/E1/informe1.pdf)
 * **Entrega 2 (E2) — Ingesta, transformación y procesamiento:** *(30 de noviembre de 2026)*
 * **Entrega 3 (E3) — Datos para ML y arquitectura final:** *(14 de diciembre de 2026)*
-* **[Registro de decisiones](decisiones.md):** Bitácora con las decisiones y cambios realizados a lo largo del proyecto.
+* **[Registro de decisiones](decisiones.md):** Aquí se anotan las decisiones y cambios realizados a lo largo del proyecto.
 
 ```text
 proyecto/
